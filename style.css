@@ -6,7 +6,8 @@ body{
 /* -------------------header--------------- */
 #header{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0, 0, 0, 0.6)), url(images/background.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0, 0, 0, 0.6)), url();
+    /* ------------------- url(images/background.jpg)--------------- */
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
